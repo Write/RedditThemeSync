@@ -6,3 +6,4 @@
 - Avoid Theme flash issue as much as possible by changing asap <html>'s classList.
 - Instantaneous theme-switching by toggling <html>'s classList theme-dark / theme-light before any API call is even made.
 - Event on Tab Switching, just in case one of your reddit tab was 'asleep', while your system changed of colorScheme.
+- Reddit's icon encoded in base64 for a little more privacy 💖✨
